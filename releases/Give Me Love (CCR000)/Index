@@ -1,1 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Give Me Love</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="page">
+    <aside class="sidebar">
+      <h2>Navigation</h2>
+      <ul class="nav-list">
+        <li><a href="/">Home</a></li>
+        <li>
+          <a href="/releases/">Releases</a>
+          <ul class="nav-list">
+            <li><a href="/releases/Give Me Love (CCR000)/">Give Me Love</a></li>
+          </ul>
+        </li>
+        <li><a href="/artists/">Artists</a></li>
+      </ul>
+    </aside>
+
+    <main class="content">
+      <h1>Give Me Love</h1>
+      <p>
+        <strong>Artist:</strong>
+        <a href="/artists/emergence-xiii/">Emergence XIII</a>
+      </p>
+      <p>
+        Straight forward bassline driven Chicago House Tune. 3 available mixes to suit your system and your mood. 
+      </p>
+      <p>
+        <a href="#">Listen to MP3</a>
+      </p> https://drive.google.com/drive/folders/15YBXrf9cGCtd-PNNQh6kTmSIGbetwaom?usp=drive_link
+      <p>
+        <a href="#">Buy FLAC (Paid)</a>
+      </p>
+    </main>
+  </div>
+</body>
+</html>
+
 https://drive.google.com/drive/folders/15YBXrf9cGCtd-PNNQh6kTmSIGbetwaom?usp=drive_link
