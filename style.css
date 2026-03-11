@@ -92,6 +92,28 @@ a:hover {
   color: #444;
 }
 
+.release-art {
+  margin: 0 auto 18px auto;
+  width: 320px;
+  text-align: center;
+}
+
+.release-art img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border: 3px outset #8e8e8e;
+  background: #111;
+}
+
+.release-art figcaption {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: #333;
+}
+
 @media (max-width: 700px) {
   .page {
     flex-direction: column;
